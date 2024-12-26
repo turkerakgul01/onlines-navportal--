@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\hubs\\generalhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\hubs\\generalhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\onlinesinavportali.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\shared\\_emptylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\shared\\_emptylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\admin\\addquestionandoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\admin\\addquestionandoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\admin\\addexam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\admin\\addexam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\sonucmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\sonucmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\questionandoptionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\questionandoptionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\examresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\exammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\exammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:onlinesinavportali\\onlinesinavportali.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\migrations\\20241221105858_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\migrations\\20241221105858_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\viewmodels\\todolistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\viewmodels\\todolistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\views\\admin\\listexams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\views\\admin\\listexams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\questionandoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\questionandoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\migrations\\20241224161311_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\migrations\\20241224161311_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\migrations\\20241225115548_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\migrations\\20241225115548_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\migrations\\20241225114804_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\migrations\\20241225114804_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|c:\\users\\t\u00FCrker\\source\\repos\\onlinesinavportali\\onlinesinavportali\\migrations\\20241225113931_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB077E-C663-46E3-99A0-F880039AC4A4}|onlinesinavportali\\onlinesinavportali.csproj|solutionrelative:onlinesinavportali\\migrations\\20241225113931_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241225115548_mig5.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225115548_mig5.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Migrations\\20241225115548_mig5.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225115548_mig5.cs",
+              "RelativeToolTip": "onlinesinavportali\\Migrations\\20241225115548_mig5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:55:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241225114804_mig4.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225114804_mig4.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Migrations\\20241225114804_mig4.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225114804_mig4.cs",
+              "RelativeToolTip": "onlinesinavportali\\Migrations\\20241225114804_mig4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:48:04.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241225113931_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225113931_mig3.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Migrations\\20241225113931_mig3.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241225113931_mig3.cs",
+              "RelativeToolTip": "onlinesinavportali\\Migrations\\20241225113931_mig3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:39:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:13:22.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signalr-client.js",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\wwwroot\\js\\signalr-client.js",
+              "RelativeDocumentMoniker": "onlinesinavportali\\wwwroot\\js\\signalr-client.js",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\wwwroot\\js\\signalr-client.js",
+              "RelativeToolTip": "onlinesinavportali\\wwwroot\\js\\signalr-client.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-25T11:12:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralHub.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Hubs\\GeneralHub.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Hubs\\GeneralHub.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Hubs\\GeneralHub.cs",
+              "RelativeToolTip": "onlinesinavportali\\Hubs\\GeneralHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:09:09.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "onlinesinavportali.csproj",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj",
+              "RelativeDocumentMoniker": "onlinesinavportali\\onlinesinavportali.csproj",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj",
+              "RelativeToolTip": "onlinesinavportali\\onlinesinavportali.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T11:07:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_EmptyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Shared\\_EmptyLayout.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Shared\\_EmptyLayout.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Shared\\_EmptyLayout.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Shared\\_EmptyLayout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:12:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Program.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Program.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Program.cs",
+              "RelativeToolTip": "onlinesinavportali\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:33:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:09:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionAndOptionsModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\QuestionAndOptionsModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\QuestionAndOptionsModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\QuestionAndOptionsModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\QuestionAndOptionsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Student.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "onlinesinavportali\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAA4wJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:52:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ExamResult.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\ExamResult.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ExamResult.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\ExamResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:22.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Exam.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddExam.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\AddExam.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Admin\\AddExam.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\AddExam.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Admin\\AddExam.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T14:58:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddQuestionAndOptions.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\AddQuestionAndOptions.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Admin\\AddQuestionAndOptions.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\AddQuestionAndOptions.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Admin\\AddQuestionAndOptions.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T14:59:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppUser.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:55:53.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Lesson.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:32.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\ExamModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\ExamModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\ExamModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\ExamModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:15.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SonucModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\SonucModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\SonucModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\SonucModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\SonucModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:57.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "onlinesinavportali\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:51:42.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "onlinesinavportali\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:53:50.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUserController.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AppUserController.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Controllers\\AppUserController.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AppUserController.cs",
+              "RelativeToolTip": "onlinesinavportali\\Controllers\\AppUserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIBJwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:52:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "onlinesinavportali.csproj.user",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj.user",
+              "RelativeDocumentMoniker": "onlinesinavportali\\onlinesinavportali.csproj.user",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\onlinesinavportali.csproj.user",
+              "RelativeToolTip": "onlinesinavportali\\onlinesinavportali.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-24T14:10:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241224161311_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241224161311_mig2.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Migrations\\20241224161311_mig2.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241224161311_mig2.cs",
+              "RelativeToolTip": "onlinesinavportali\\Migrations\\20241224161311_mig2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:13:11.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppRole.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:54:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\appsettings.json",
+              "RelativeDocumentMoniker": "onlinesinavportali\\appsettings.json",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\appsettings.json",
+              "RelativeToolTip": "onlinesinavportali\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T14:34:33.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\LoginModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:25.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\RegisterModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\RegisterModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:46.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241221105858_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241221105858_InitialMigration.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Migrations\\20241221105858_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Migrations\\20241221105858_InitialMigration.cs",
+              "RelativeToolTip": "onlinesinavportali\\Migrations\\20241221105858_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:58:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ToDoListModel.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\ToDoListModel.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\ViewModels\\ToDoListModel.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\ViewModels\\ToDoListModel.cs",
+              "RelativeToolTip": "onlinesinavportali\\ViewModels\\ToDoListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:58:06.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:54:22.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:01:42.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ListExams.cshtml",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\ListExams.cshtml",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Views\\Admin\\ListExams.cshtml",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Views\\Admin\\ListExams.cshtml",
+              "RelativeToolTip": "onlinesinavportali\\Views\\Admin\\ListExams.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:00:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ToDoList.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\ToDoList.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:57:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QuestionAndOptions.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\QuestionAndOptions.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\QuestionAndOptions.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\QuestionAndOptions.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\QuestionAndOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:56:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Models\\Admin.cs",
+              "RelativeToolTip": "onlinesinavportali\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:54:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "onlinesinavportali\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\T\u00DCRKER\\source\\repos\\onlinesinavportali\\onlinesinavportali\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "onlinesinavportali\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:49:53.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

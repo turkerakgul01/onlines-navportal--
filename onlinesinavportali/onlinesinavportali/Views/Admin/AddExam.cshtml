@@ -1,0 +1,45 @@
+﻿@model onlinesinavportali.ViewModels.ExamModel
+
+@{
+    ViewData["Title"] = "AddExam";
+    Layout = "_EmptyLayout";
+}
+
+<h1>Sınav Oluşturma</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddExam">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ExamName" class="control-label"></label>
+                <input asp-for="ExamName" class="form-control" />
+                <span asp-validation-for="ExamName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExamDate" class="control-label"></label>
+                <input asp-for="ExamDate" class="form-control" />
+                <span asp-validation-for="ExamDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LessonID" class="control-label"></label>
+                <input asp-for="LessonID" class="form-control" />
+                <span asp-validation-for="LessonID" class="text-danger"></span>
+                
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Oluştur" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Admin Paneline Dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

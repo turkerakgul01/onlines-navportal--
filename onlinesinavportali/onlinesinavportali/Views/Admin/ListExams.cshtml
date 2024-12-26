@@ -1,0 +1,45 @@
+﻿@model IEnumerable<onlinesinavportali.Models.ExamResult>
+
+@{
+    ViewData["Title"] = "ListExams";
+    Layout = "_EmptyLayout";
+}
+
+<h1>Sınav Sonuçları</h1>
+
+@Html.ActionLink("AnaSayfa", "Index", null, new { @class = "btn btn-success" })
+<table class="table">
+    <thead>
+        <tr>
+            <th>Doğru Sayısı</th>
+            <th>Yanlış Sayısı</th>
+            <th>Puan</th>
+            <th class="hidden-phone">Ders Adı</th>
+            <th class="hidden-phone">Öğrenci Adı Soyadı</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorrectCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WrongCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Result)
+            </td>
+            <td>
+                    
+                    @Html.DisplayFor(modelItem => item.Exam.ExamName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.FullName)
+                
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,92 @@
+﻿@model List<QuestionAndOptions>
+@{
+    ViewData["Title"] = "Sinavlar";
+    Layout = "_EmptyLayout";
+    int sayi = 1;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timer</title>
+</head>
+<body>
+
+    <h1 id="timer">0:00</h1>
+
+    <script >
+        let seconds = 0;
+        let minutes = 10; // 10 dakika
+        let display = document.getElementById('timer');
+
+        function startTimer() {
+            displayTimer();
+            setInterval(updateTimer, 1000);
+        }
+
+        function updateTimer() {
+            if (seconds > 0) {
+                seconds--;
+            } else {
+                if (minutes === 0) {
+                    clearInterval(); // Zaman bittiğinde interval'ı durdur
+                    alert("Zaman doldu!");
+                    return;
+                }
+                seconds = 59;
+                minutes--;
+            }
+            displayTimer();
+        }
+
+        function displayTimer() {
+            display.textContent = (minutes < 10 ? '0' + minutes : minutes) + ':' + (seconds < 10 ? '0' + seconds : seconds);
+        }
+
+        window.onload = startTimer;
+
+        
+
+    </script>
+
+
+
+<form asp-controller="AppUser" asp-action="Sinavlar" method="post">
+
+        <h1>@ViewBag.dersAdi Soruları</h1>
+        <br />
+
+    @for (var i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+        <h3>@sayi-) @item.QuestionText</h3>
+
+        <label>
+            <input name="questionAndOptions[@i].SelectedOption" type="radio" value="@item.A" />
+            @item.A
+        </label>
+        <br />
+        <label>
+            <input name="questionAndOptions[@i].SelectedOption" type="radio" value="@item.B" />
+            @item.B
+        </label>
+        <br />
+        <label>
+            <input name="questionAndOptions[@i].SelectedOption" type="radio" value="@item.C" />
+            @item.C
+        </label>
+        <br />
+        <label>
+            <input name="questionAndOptions[@i].SelectedOption" type="radio" value="@item.D" />
+            @item.D
+        </label>
+
+        sayi++;
+    }
+    <br />
+    <button type="submit">Cevapları Onayla!</button>
+</form>
+
+</body>
+</html>

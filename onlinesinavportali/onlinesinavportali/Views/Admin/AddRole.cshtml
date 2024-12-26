@@ -1,0 +1,27 @@
+﻿@model List<AppUser>
+@{
+    ViewData["Title"] = "AddRole";
+    Layout = "~/Views/Shared/_EmptyLayout.cshtml";
+}
+
+<h1>Rol Verme</h1>
+
+<form asp-action="AddRole">
+
+    <label for="fname">Verilecek Rol:</label>
+    <input type="text" id="Role" name="Role"><br><br>
+
+    <select class="form-control" id="FullName" name="FullName">
+        
+    
+    @foreach (var item in Model)
+    {
+            <option>@item.FullName</option>
+        }
+    </select>
+
+
+    <div class="form-group">
+        <input type="submit" value="Oluştur" class="btn btn-primary" />
+    </div>
+</form>
